@@ -1,0 +1,41 @@
+#header {
+    width: 100%;
+    background-color: white;
+}
+
+h1 {
+    font-family: sans-serif;
+    margin-left: 400px;
+}
+#feed {
+    background-color: lightgrey;
+    width: 100%;
+    border-style: 1px solid black;
+    display: block;
+    padding: 20px;
+}
+.posts {
+    width: 500px;
+    background-color: white;
+    margin: auto;
+}
+h2 {
+    font-size: 16px;
+}
+.postH {
+    width: 500px;
+    display: flex;
+}
+.date {
+    position: absolute;
+    right: 420px;
+    font-size: 11px;
+    color: grey
+}
+div.posts img {
+    width: 500px;
+}
+
+div.posts h2, div.posts p {
+    padding: 10px;
+}
